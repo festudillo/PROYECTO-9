@@ -1,6 +1,4 @@
-# PROYECTO-9
-Proyecto 9 - Aprendizaje automático de negocios
-Descripción del proyecto
+Descripción del proyecto:
 Trabajas en la compañía de extracción de petróleo OilyGiant. Tu tarea es encontrar los mejores lugares donde abrir 200 pozos nuevos de petróleo.
 Para completar esta tarea, tendrás que realizar los siguientes pasos:
 Leer los archivos con los parámetros recogidos de pozos petrolíferos en la región seleccionada: calidad de crudo y volumen de reservas.
